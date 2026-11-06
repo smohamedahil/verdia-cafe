@@ -105,10 +105,8 @@ export default function GallerySection() {
               <div className="col-span-9 bg-[#82C826] rounded-3xl p-5 flex flex-col justify-between shadow-xl text-[#1b3515] min-h-[140px] transition-transform hover:-translate-y-0.5 duration-200">
                 <div className="text-xs font-semibold tracking-wide opacity-80">Verdia’s here</div>
                 <div className="flex items-end justify-between mt-4">
-                  <div className="text-base sm:text-lg font-bold leading-tight">
-                    Chennai,
-                    <br />
-                    Tamil Nadu
+                  <div className="text-base sm:text-lg font-bold leading-tight whitespace-nowrap">
+                    Chennai, Tamil Nadu
                   </div>
                   {/* Map Pin Outline Icon */}
                   <div className="w-10 h-10 text-[#1b3515] flex items-center justify-center shrink-0">

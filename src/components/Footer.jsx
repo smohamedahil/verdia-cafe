@@ -112,15 +112,11 @@ export default function Footer() {
             <span className="text-xs font-semibold text-[#1C3614]/70 tracking-wider mb-4">Contact</span>
             <div className="space-y-3.5 text-base sm:text-lg font-bold text-[#1C3614] tracking-tight">
               {/* Address with Pin Icon */}
-              <div className="flex items-start gap-2.5">
-                <svg className="w-5 h-5 text-[#1C3614] shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 24 24">
+              <div className="flex items-center gap-2.5">
+                <svg className="w-5 h-5 text-[#1C3614] shrink-0" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z" />
                 </svg>
-                <span className="leading-snug">
-                  Chennai,
-                  <br />
-                  Tamil Nadu
-                </span>
+                <span className="whitespace-nowrap">Chennai, Tamil Nadu</span>
               </div>
               {/* Email with Envelope Icon */}
               <div className="flex items-center gap-2.5">
