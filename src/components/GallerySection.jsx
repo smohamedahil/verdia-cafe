@@ -106,9 +106,9 @@ export default function GallerySection() {
                 <div className="text-xs font-semibold tracking-wide opacity-80">Verdia’s here</div>
                 <div className="flex items-end justify-between mt-4">
                   <div className="text-base sm:text-lg font-bold leading-tight">
-                    28 Roastery Lane,
+                    Chennai,
                     <br />
-                    Brooklyn, NY
+                    Tamil Nadu
                   </div>
                   {/* Map Pin Outline Icon */}
                   <div className="w-10 h-10 text-[#1b3515] flex items-center justify-center shrink-0">
@@ -131,7 +131,7 @@ export default function GallerySection() {
               {/* Say Hello Pill */}
               <a
                 className="col-span-3 bg-[#82C826] rounded-3xl p-3 flex flex-col items-center justify-between shadow-xl text-[#1b3515] transition-all hover:bg-[#74B137] hover:-translate-y-0.5"
-                href="mailto:hello@verdiacafe.com"
+                href="mailto:smohamedahil@gmail.com"
               >
                 {/* Email envelope icon */}
                 <svg

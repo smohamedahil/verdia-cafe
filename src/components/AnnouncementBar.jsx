@@ -22,7 +22,7 @@ export default function AnnouncementBar() {
       className="bg-top-bar text-brand-dark text-xs sm:text-sm font-medium py-2 px-4 text-center tracking-wide relative z-30"
       data-purpose="announcement-bar"
     >
-      <span>28 Roastery Lane, Brooklyn</span>
+      <span>Chennai, Tamil Nadu</span>
       <span className="mx-2">•</span>
       <span>Open daily 7AM–6PM</span>
       <span className="mx-2">•</span>
